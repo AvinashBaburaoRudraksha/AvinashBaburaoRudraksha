@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvinashBaburaoRudraksha
-- 👀 I’m interested in ... Astronomy, Meditation, playing, Travelling, and some stuff can't say in public
+- 👀 I’m interested in ... Astronomy, Meditation, playing, Travelling
 - 🌱 I’m currently learning ... github and how computer works
 - 💞️ I’m looking to collaborate on ... mini computer based products
 - 📫 How to reach me ...    is github also a social media platform?
